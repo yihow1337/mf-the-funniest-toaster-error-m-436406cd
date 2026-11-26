@@ -1,0 +1,46 @@
+# Draft pad -- The Funniest Toaster Error Message (<=120 chars)
+# Judge order: 1 real toaster error & funniest of its kind, 2 freshness,
+# 3 tightness, 4 one held voice, 5 lands on one read.
+
+## Avoid (field will be saturated)
+burnt/"I'm toast" puns, 404 toast not found, HAL/"sorry Dave", crumb tray of
+regret, bagel mode, sentience manifesto, firmware/subscription gags.
+
+## Candidates
+01  E04: Bread removed early. We were nearly there. Please do not do that again.
+02  Fault 12: One slot filled. I cannot work asymmetrically. Please balance me.
+03  E7: Something buttered went in before toasting. We do not do that here.
+04  Err 3: Lever down, no bread. I went through with it anyway.
+05  E02: Fork detected. One of us is about to learn something.
+06  Err 5: Crumb tray not emptied since 2019. I have stopped counting. So should you.
+07  Service required: the left slot now toasts in a style I cannot defend.
+08  E11: Toast ejected at 4am. No bread was present. We will not discuss this.
+09  Err 9: Toasted twice. You are not coming back for it, are you?
+10  E06: You chose setting 7. I have five settings and a strong imagination.
+11  E1: Bread too thick. I accepted it anyway and now we are both stuck.
+12  Err 8: Frozen pressed on warm bread. I do not know what you want from me.
+13  E2: Smoke detected. The alarm and I had an arrangement. It has broken rank.
+14  E21: Bread inserted horizontally. I admire the attempt.
+15  E12: Slot 2 runs cold. It has always run cold. Please stop pretending otherwise.
+16  E5: Lever will not stay down. I tried. You saw me try.
+17  E7: You are standing over me. It does not help. It has never helped.
+18  E09: Element unresponsive. The bread is just sitting in the dark.
+19  E10: That was a waffle. We will say nothing further about the waffle.
+20  E2: Starting this cycle resets every clock in the kitchen. Continue?
+
+## Cuts
+02, 07, 19 -- need a second read. 06, 11 -- near the crumb/regret cliche.
+10, 12, 20 -- amusing, not a laugh. 05 -- fork hazard is obvious territory;
+many entrants will file there. 13, 18 -- good but the image does the work,
+not the voice.
+
+## Finalists
+04  absurd commitment; the toaster toasted nothing on purpose. Very fresh.
+09  abandonment, quietly dramatic. Slightly sentimental.
+15  true-to-life uneven slots, resigned. Longest of the four.
+16  the single most common real toaster fault (lever will not latch), and the
+    punch is the toaster appealing to a witness. Max score on criterion 1,
+    no pun anywhere, three beats that all land on one read.
+
+## PICK
+E5: Lever will not stay down. I tried. You saw me try.
